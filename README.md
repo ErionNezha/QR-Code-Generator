@@ -1,19 +1,19 @@
 <!-- Created by Erion Nezha — © 2026 All rights reserved -->
-# QR Code Generator
+# MR.ERIONXX — QR Code Generator
 
-Gjenerues QR kodesh në HTML/CSS/JS — shkruaj tekstin/URL-në dhe gjenero QR kodin në çast.
+Shndërro çdo tekst apo link në QR code të skanueshëm — menjëherë, pa llogari. Me buton shkarkimi PNG.
 
-`HTML` `CSS` `JavaScript`
+## Demo Live
+Hape **`index.html`** në GitHub Pages — ose provo demo-n direkt: [`demo/`](demo/)
 
-## 🚀 Live Demo
-Hape **`index.html`** në browser — demo-ja ekzekutohet direkt, pa instalime.
-Nëse repo është publikuar me GitHub Pages: `https://erionnezha.github.io/QR-Code-Generator/`
+## Kodi Burim
+Kodi i plotë shfaqet në panelin **"Kodi Burim"** në faqen kryesore:
+- `demo/index.html` — struktura
+- `demo/style.css` — stilet neon
+- `demo/script.js` — gjenerimi i QR (api.qrserver.com)
 
-## 📝 Kodi Burim
-Kodi i plotë është në dosjen [`original/`](original/) dhe shfaqet krahas demo-s live në `index.html`.
-
-## ▶️ Ekzekutimi origjinal
-Hap `demo/index.html` në browser.
+## Teknologjitë
+HTML5 · CSS3 · JavaScript · [goqr.me API](https://goqr.me/api/)
 
 ---
 Krijuar nga **Erion Nezha** — © 2026
